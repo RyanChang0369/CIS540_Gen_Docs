@@ -1,0 +1,14 @@
+{
+    "sites": [
+        {
+            "url": "https://catalog.umd.umich.edu/academic-policies-graduate/",
+            "is_initial": true,
+            "selectors": [
+                {
+                    "kind": "css",
+                    "value": "main#contentarea"
+                }
+            ]
+        }
+    ]
+}
